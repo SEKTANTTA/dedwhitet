@@ -941,3 +941,4 @@ vless://1a921231-3cae-4948-9088-cfb18d0bf87c@50.116.37.78:443?type=xhttp&amp;pat
 vless://1a94fbd9-79d2-4aa7-bf1d-074f678d27ab@172.66.128.70:80?encryption=none&amp;security=none&amp;type=ws&amp;host=EqUiPPed-phOToZkoA7K5e6P.eCoTOuRiss.Co.uk.&amp;path=/?ed#🆔[t.me/WEBHUBE]👉MTN70128
 vless://1a9a250be0fc4838bf4a3be2df89c670@94.103.89.223:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=ya.ru&pbk=9XS6MeMlQBh4qCT1dhavAwGPKsWQGSyrSH_xHwotw0k&sid=aabbccdd&fp=random#REALITY|RU🇷🇺
 vless://1aae9657-c653-495d-e8ad-8ca52916cea8@de.bolagskontaktstockholm.se:443?path=🔒
+vless://cb7946b2-0f8a-49b0-a24b-01a8eeead0a3@194.104.136.185:443?type=tcp&security=reality&pbk=gpsu41E-weiFsO-_tHcSOw521OU3a6GkeqGgGT_vZBI&sni=microsoft.com&fp=random&sid=42&spx=%2F&flow=xtls-rprx-vision#HitVPN_109069880
